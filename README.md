@@ -29,6 +29,9 @@ how to install
 
 - Rasp Pi Stuff
     - NeoPixel / DotStar - build and setup, with C/Python
+        - `git clone https://github.com/adafruit/Adafruit_DotStar_Pi`
+        - Edit `strandtest.py`, change the number of LEDs and port numbers to match your setup
+        - `sudo python strandtest.py`
     - docker - CeeDon
 
 ReadMe - Links
