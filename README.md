@@ -1,12 +1,12 @@
 # Neopixels and Dotstars and Brightlights, oh my!!
 
-Welcome to the Big Nerd Ranch Hack Night: Light Strip Edition! 
-We have a bunch of Neopixel and Dotstar strips and supporting hardware 
+Welcome to the Big Nerd Ranch Hack Night: Light Strip Edition!
+We have a bunch of Neopixel and Dotstar strips and supporting hardware
 and know-how, and we're gonna get blinkered!
 
 ## Nerdly Feud Overview
 
-In last year's clash, @tgandee, @bolot, @ceedon and @barbecuesteve built a podium 
+In last year's clash, @tgandee, @bolot, @ceedon and @barbecuesteve built a podium
 to play a variation of "Family Feud". Part of the game was accomplished with Neopixels.
 They will discuss their glorious achievement! *We will embed a video here someday. hopefully.*
 
@@ -21,7 +21,7 @@ We have a bunch of Arduino clones, including some of the fancy new [Particle Pho
 
 ## DotStar
 
-We have a bunch of DotStar strips, too. They're more expensive but more capable. 
+We have a bunch of DotStar strips, too. They're more expensive but more capable.
 
 ## Rasp Pi - Docker
 
@@ -37,7 +37,7 @@ and we're ready to begin.
 
 
 
-## Fritzing 
+## Fritzing
 
 ?
 
@@ -57,5 +57,7 @@ _Hardware Wiring_
 
 - AdaFruit Neopixel
 - FastLED - DotStar
+
+[Video Inspiration from JSCONF](http://cdn.embedly.com/widgets/media.html?src=http://www.youtube.com/embed/NHs5t1l3qzo%3Ffeature%3Doembed&url=http://www.youtube.com/watch%3Fv%3DNHs5t1l3qzo&image=http://i1.ytimg.com/vi/NHs5t1l3qzo/hqdefault.jpg&key=92b31102528511e1a2ec4040d3dc5c07&type=text/html&schema=youtube&r=http://blog.whichlight.com/&s=1&autoplay=1)
 
 
