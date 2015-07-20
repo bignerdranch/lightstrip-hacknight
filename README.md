@@ -19,10 +19,18 @@ how to install
 
 #Git Repo
 
-- Arduino Stuff
-    - examples
-    - neo pixel
-        - example with AdaFruit - NeoPixel
+## Arduino
+
+_Working with Arduino, NodeJS, and NeoPixel Light Strips_
+
+[Node-Pixel Repo](https://github.com/ajfisher/node-pixel)
+
+[Installation with Johnny-Five](https://github.com/ajfisher/node-pixel/blob/master/docs/installation.md)
+
+_Hardware Wiring_
+![Custom Firmata Diagram](https://github.com/ajfisher/node-pixel/blob/master/docs/custom_firmata_bb.png)
+
+
     - dot star
         - FastLED - steve (Apa102)
         - AdaFruit DotStar library - Bolot
