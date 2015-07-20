@@ -32,12 +32,8 @@ how to install
         - `git clone https://github.com/adafruit/Adafruit_DotStar_Pi`
         - Edit `strandtest.py`, change the number of LEDs and port numbers to match your setup
         - `sudo python strandtest.py`
-        - If you want to try `image-paint.py` or `image-pov.py` examples, you'll need to install a few things:
-            - `sudo apt-get install python-dev`
-            - `wget https://raw.github.com/pypa/pip/master/contrib/get-pip.py`
-            - `sudo python get-pip.py`
-            - `sudo pip install Image`
-            - Edit the `image-*.py` files, insert `from PIL` before `import Image`, on the same line
+        - If you want to try `image-paint.py` or `image-pov.py` examples, you'll need to install one more thing:
+            - `sudo apt-get install python-imaging`
     - docker - CeeDon
 
 ReadMe - Links
